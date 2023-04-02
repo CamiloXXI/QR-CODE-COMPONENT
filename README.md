@@ -1,2 +1,3 @@
 # QR-CODE-COMPONENT
-[Click me!](https://qr-code-component-xxi.netlify.app/)
+
+<a href="https://qr-code-component-xxi.netlify.app/" target="_blank">Site!</a>
